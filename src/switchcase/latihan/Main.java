@@ -28,3 +28,6 @@ public class Main {
         inputUser.close();  // Menutup Scanner untuk menghindari kebocoran resource
     }
 }
+
+
+
